@@ -68,5 +68,7 @@ Dette genererer filen på den nye path, så den ligger begge steder.
 
 Simpel html side der viser filer og mapper i min dropbox directory ved click på knap.
 
+# Øvelse 11: Er https://api.dropboxapi.com/2/ Restfull or not?
 
+Dropbox-API'et bruger HTTP-requests og json til client requests og returnering af data. Derudover bruger de endpoints til at definere deres forskellige dataressourcer, som man kan tilgå med hhv. GET, POST, DELETE mm. Clienten fortæller derfor hvad api'et skal gøre, og returnerer et svar til clienten. Brugen af det gør Dropbox-apiet til et pålideligt RESTful api.
 
