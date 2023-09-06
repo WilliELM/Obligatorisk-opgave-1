@@ -17,6 +17,7 @@ Til denne opgave brugte jeg Post request med url-en https://api.dropboxapi.com/2
 <img width="883" alt="Skærmbillede 2023-09-06 kl  09 40 16" src="https://github.com/WilliELM/Obligatorisk-opgave-1/assets/111922379/e57c697c-b142-4e3d-a136-0a158de5b206">
 
 # Øvelse 4 - Upload en fil
+
 <img width="875" alt="Skærmbillede 2023-09-06 kl  10 01 47" src="https://github.com/WilliELM/Obligatorisk-opgave-1/assets/111922379/24a1f1ef-7b2e-4e7f-baf7-d8f35427b46d">
 
 Ændrede body til binary og vedhæftede min fil.
